@@ -1,6 +1,10 @@
 # Block Producer Candidacy Info and Architecture
 
-EOS Costa Rica BP Candidacy Infromation Architecture
+EOS Costa Rica BP Candidacy Information Architecture.
+
+<div align="center">
+  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/eos-costa-rica.png" />
+</div>
 
 ## Introduction
 EOS Costa Rica is an initiative of Sistemas Edenia Internacional S.A. (EDENIA), a Costa Rican IT company founded in 1987 as the country’s first BBS service. As the online world progressed towards the internet, the Costa Rican state-owned telecom, ICE, began to provide the country with internet access via its sole ISP Radiografica Costarricense (RACSA). We have since developed a long partnership with Costa Rica’s largest ISP. The company maintains lease contracts of data center space on the 3rd floor of RACSA’s main building in San José with our administrative offices located only 2 blocks from the data center. With decades of experience managing our own server farm, as Costa Rica Servers , we have evolved to serve top tier clients in over 35 countries. After studying and investing early in Dan Larimer’s projects BitShares and Steem, we were convinced to serve the EOS community by offering our hard work, knowledge and resources from Costa Rica to the world.
@@ -49,34 +53,37 @@ Costa Rica stands for peace and liberty, characteristics that are internationall
 
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/peace-and-liberty.png" />
+  <br>
+  <small>Source: CINDE based on data from IMF, INEC, MEP</small>
 </div>
 
-Source: CINDE based on data from IMF, INEC, MEP
+
 
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/political-stability.png" />
+  <br>
+  <small>Source: World Bank, The Worldwide Governance Indicators, 2016. Score: between 1-100</small>
 </div>
 
-Source: World Bank, The Worldwide Governance Indicators, 2016.
-Score: between 1-100
+
 
 ## Infrastructure Overview
 We are doing our part by reducing our carbon footprint to an absolute minimum. Costa Rica leads the world in achieving carbon neutrality, expected by 2030. Costa Rica is already producing more than 90% of its energy from renewable sources.
 
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/infrastructure-overview.png" />
+  <br>
+  <small>Source: CINDE</small>
 </div>
-
-Source: CINDE
 
 ## Community Reinvestment
 Costa Rica is committed to investing where it matters most with a public education policy that is free and mandatory since 1870. Costa Rica stands out for its high educational standards and outstanding productivity levels and we intend to replicate those values for the local EOS community. We have reached out to the communities in Panama and Guatemala in order to combine efforts and build the most significant EOS cluster in Central America.
 
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/educational-system.png" />
+  <br>
+  <small>Source: World Economic Forum. The Global Competitiveness Report 2016 - 2017 Score: 1 to 7, where 7 indicates extremely well</small>
 </div>
-
-Source: World Economic Forum. The Global Competitiveness Report 2016 - 2017 Score: 1 to 7, where 7 indicates extremely well
 
 We pledge to reinvest our block rewards following the same formula that has made our country a ideal business environment -- invest in a educational system for EOS developers, fund EOS startups that focus on innovation and partner with local Universities to increase research and development in the EOS ecosystem.
 
@@ -185,7 +192,7 @@ Telegram: https://t.me/eoscostarica
 We are in the EOS Jungle Testnet under “Morpho”, please see screenshot below:
 
 <div align="center">
-  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/jungle-morphopr.png" />
+  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/jungle-morpho.png" />
 </div>
 
 ### 7) - Block Producer Candidate Roadmap on values, community project timeline, finances, transparency.
