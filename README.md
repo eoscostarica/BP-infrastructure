@@ -6,6 +6,43 @@ EOS Costa Rica BP Candidacy Information Architecture.
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/eos-costa-rica.png" />
 </div>
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Contents
+
+- [Introduction](#introduction)
+- [Mission](#mission)
+- [Our Values](#our-values)
+- [Our Pledge to the EOS Network](#our-pledge-to-the-eos-network)
+- [Network Redundancy](#network-redundancy)
+- [Political Environment](#political-environment)
+- [Infrastructure Overview](#infrastructure-overview)
+- [Community Reinvestment](#community-reinvestment)
+- [The Six Check Mark Criteria (from EOS Go)](#the-six-check-mark-criteria-from-eos-go)
+  - [1) Online Presence](#1-online-presence)
+  - [2) ID Information](#2-id-information)
+    - [Official Block Producer Candidate Name](#official-block-producer-candidate-name)
+    - [Current Location of Servers](#current-location-of-servers)
+    - [Expansion Plan](#expansion-plan)
+    - [Type of Servers](#type-of-servers)
+    - [Our Team](#our-team)
+      - [Rodrigo Fernandez](#rodrigo-fernandez)
+      - [Daniel Rojas](#daniel-rojas)
+      - [Xavier Fernandez](#xavier-fernandez)
+      - [Ing. Ronald Gallo S](#ing-ronald-gallo-s)
+      - [Julio Madrigal](#julio-madrigal)
+      - [Edgar Fernandez](#edgar-fernandez)
+      - [Rodolfo Perez](#rodolfo-perez)
+      - [Alejandro Patterson](#alejandro-patterson)
+  - [3) Estimate of Technical Specifications and Total Expenditure for Resources by June 3, 2018](#3-estimate-of-technical-specifications-and-total-expenditure-for-resources-by-june-3-2018)
+  - [4) Estimated Scaling Plan for Hardware Immediately after June 3, 2018 if elected](#4-estimated-scaling-plan-for-hardware-immediately-after-june-3-2018-if-elected)
+  - [5) Community Benefit Project Outline, only for Projects Expected to be Public by June 3, 2018](#5-community-benefit-project-outline-only-for-projects-expected-to-be-public-by-june-3-2018)
+  - [6) Listing of Telegram and Node Names for community Testnet Participation](#6-listing-of-telegram-and-node-names-for-community-testnet-participation)
+  - [7) - Block Producer Candidate Roadmap on Values, Community Project Timeline, Finances, Transparency.](#7---block-producer-candidate-roadmap-on-values-community-project-timeline-finances-transparency)
+  - [8) Position on Dividends](#8-position-on-dividends)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Introduction
 EOS Costa Rica is an initiative of Sistemas Edenia Internacional S.A. (EDENIA), a Costa Rican IT company founded in 1987 as the country’s first BBS service. As the online world progressed towards the internet, the Costa Rican state-owned telecom, ICE, began to provide the country with internet access via its sole ISP Radiografica Costarricense (RACSA). We have since developed a long partnership with Costa Rica’s largest ISP. The company maintains lease contracts of data center space on the 3rd floor of RACSA’s main building in San José with our administrative offices located only 2 blocks from the data center. With decades of experience managing our own server farm, as Costa Rica Servers , we have evolved to serve top tier clients in over 35 countries. After studying and investing early in Dan Larimer’s projects BitShares and Steem, we were convinced to serve the EOS community by offering our hard work, knowledge and resources from Costa Rica to the world.
 
@@ -97,14 +134,15 @@ We pledge to reinvest our block rewards following the same formula that has made
 - Telegram: https://t.me/eoscostarica
 - Testnet: Currently running Block Producer node in EOS Jungle registered as account “morpho” .
 
-### 2) ID information
-#### Official block producer candidate name: EOS Costa Rica
+### 2) ID Information
+#### Official Block Producer Candidate Name
+EOS Costa Rica
 
 - Legal Name: Sistemas Edenia Internacional S.A.
 - ID #: 3-101-090127
 - Location of company headquarters: #501 Trifami, Avenida 1, Calle 2, San José, Costa Rica, 1000
 
-#### Current location of servers
+#### Current Location of Servers
 EOS Costa Rica has installed an EOS Block Producer node in San José, Costa Rica.
 
 - Exact Address: San José, Avenida 5, Calle 1
@@ -116,7 +154,7 @@ We will install redundant redundant infrastructure in a secondary location, Guat
 
 All three Data Centers will be interconnected through a Internet Exchange Point (IEP) CRIX
 
-#### Type of servers
+#### Type of Servers
 EOS Costa Rica will deploy bare metal nodes and storage devices to create a secure and redundant environment for the EOS network. This allows for full control over the infrastructure, with no dependency on third party hardware providers. Our team has demonstrated experience in systems engineering skills required for this project.. We will actively adapt to network conditions and add redundancy as needed
 
 #### Our Team
@@ -154,7 +192,7 @@ Rodolfo joined EOS Costa Rica as the Director of Marketing in 2015. He is respon
 Developer Engagement  
 Over the last 10 years, Alex developed his entrepreneurial and business skills through a series of ventures, relationships, failures and successes. He is currently responsible for Lean Product Development helping us understand developer needs more intimately and ultimately join the EOS ecosystem.
 
-### 3) Estimate of technical specifications and total expenditure for resources by June 3, 2018
+### 3) Estimate of Technical Specifications and Total Expenditure for Resources by June 3, 2018
 The current hardware characteristics for this node are:
 
 - 4 x CPU 24 cores (48 threads) @ 1.87GHz
@@ -167,7 +205,7 @@ We will expand the box to full capacity before EOS main-net launching date in Ju
 - 512 GB RAM
 - 8 TB SSD Storage
 
-### 4) Estimated scaling plan for hardware immediately after June 3, 2018 if elected
+### 4) Estimated Scaling Plan for Hardware Immediately after June 3, 2018 if elected
 EOS Costa Rica will employ two identical servers, 1 as backup, with the following specifications:
 
 - HP DL360 Gen 10 server.
@@ -176,7 +214,7 @@ EOS Costa Rica will employ two identical servers, 1 as backup, with the followin
 - 8TB in Raid 6 configuration
 - 10GB/25GB PCI fibre network card
 
-### 5) Community benefit project outline, only for projects expected to be public by June 3, 2018
+### 5) Community Benefit Project Outline, only for Projects Expected to be Public by June 3, 2018
 We pledge to reinvest our block rewards following the same formula that has made our country a ideal business environment -- invest in a educational system for EOS developers, fund EOS startups that focus on innovation and partner with local educators to increase research and development in the EOS ecosystem.
 
 Some of the steps EOS Costa Rica has outlined:
@@ -187,7 +225,7 @@ Some of the steps EOS Costa Rica has outlined:
 - EOS Scholarship for high performing developers and systems engineers to begin or continue their studies and give back to the - EOS community
 - EOS-specific political fund that would provide resources to community leaders to work with policy makers and regulators to ensure a favorable environment for technology in Costa Rica
 
-### 6) Listing of Telegram and node names for community testnet participation
+### 6) Listing of Telegram and Node Names for community Testnet Participation
 Telegram: https://t.me/eoscostarica
 We are in the EOS Jungle Testnet under “Morpho”, please see screenshot below:
 
@@ -195,7 +233,7 @@ We are in the EOS Jungle Testnet under “Morpho”, please see screenshot below
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/jungle-morpho.png" />
 </div>
 
-### 7) - Block Producer Candidate Roadmap on values, community project timeline, finances, transparency.
+### 7) - Block Producer Candidate Roadmap on Values, Community Project Timeline, Finances, Transparency.
 We reiterate our values available at the beginning of this post that will drive our decision making around financing, transparency and community projects. We are already active in communicating with the community by way of your steemit blog (@eos-costarica) and our twitter handle (@eoscostarica) providing updates and encouraging discourse before funds are allocated and distributed.
 
 We also intend to hold block rewards in escrow until the community has demonstrated their support for proposals on our social media outlets. Our goal is to work towards the successful governance of the blockchain and be held accountable by holders, developers and the community in general.
@@ -222,3 +260,6 @@ We will disclose the projected and actual percentages of funds allocated to the 
 - Other
 
 We will not be paying dividends or engage in vote buying. We have published our Pledge at the beginning of this post and look forward to community feedback on how we can improve and be held accountable.
+
+
+[eoscostarica.com](http://eoscostarica.com)  
