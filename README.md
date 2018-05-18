@@ -233,7 +233,7 @@ We are in the EOS Jungle Testnet under “Morpho”, please see screenshot below
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/jungle-morpho.png" />
 </div>
 
-### 7) - Block Producer Candidate Roadmap on Values, Community Project Timeline, Finances, Transparency.
+### 7) Block Producer Candidate Roadmap on Values, Community Project Timeline, Finances, Transparency.
 We reiterate our values available at the beginning of this post that will drive our decision making around financing, transparency and community projects. We are already active in communicating with the community by way of your steemit blog (@eos-costarica) and our twitter handle (@eoscostarica) providing updates and encouraging discourse before funds are allocated and distributed.
 
 We also intend to hold block rewards in escrow until the community has demonstrated their support for proposals on our social media outlets. Our goal is to work towards the successful governance of the blockchain and be held accountable by holders, developers and the community in general.
