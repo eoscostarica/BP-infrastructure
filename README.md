@@ -16,18 +16,18 @@
 
 # Block Producer Candidacy Info and Architecture
 
-EOS Costa Rica BP Candidacy Information Architecture.
-
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/eos-costa-rica.png" />
 </div>
 
-[Technical Roadmap](https://eoscostarica.com/documents/EOS-costaRica-document-tech.pdf)  
+This document is intended as a open discussion with the EOS community and
+we encourage suggestions. Please let us know how we can better leverage the
+resources in Costa Rica to support EOS. We want your feedback!
+
+We are constantly thinking of ways to improve our infrastructure and have outlined the following [Technical Roadmap](https://eoscostarica.com/documents/EOS-costaRica-document-tech.pdf)  , we will actively adapt our roadmap to network conditions and add capacity / redundancy as needed.
 
 
 ## Bare Metal Servers Specs ##
-
-Our team has decades of experience managing servers and encompasses all the technical skills required to operate an EOS Block Producer 24/7 from Costa Rica. We are constantly thinking of ways to improve our infrastructure and have outlined the following technical roadmap, we will actively adapt our roadmap to network conditions and add capacity / redundancy as needed.</p>
                            
 ### Primary and secondary block producer nodes : ###
 
@@ -43,7 +43,6 @@ We want to do our part to ensure the EOS network scales as smoothly as possible.
 - <b>8TB SSD Storage</b> in RAID 5
 - <b>1GBs uplink</b>
 
-
 ### Load Balanced Full Nodes : ###
 
 We have provisioned two servers as load-balanced full nodes with our initial hardware setup to shield our producer nodes and respond in a timely manner to requests coming from users in our region. The number of nodes can be easily increased as demand increases.
@@ -56,8 +55,12 @@ We look forward to the EOS token holder's support in order to continue with the 
 
 Fiber optic connections reach Costa Rica on both Pacific and Caribbean coasts via three submarine cables that provide the majority of bandwidth to Costa Rica. Access to all three backbones, <i> ARCOS-1, MAYA-1, and Pan American Crossing (PAC) </i> provides real time fail-over and redundancy at our facility. Additionally all 6 Central American nations are interconnected via a terrestrial fiber optic network <i>(REDCA)</i>. Direct connections to all upstream carriers ensure that no single point of failure is present in the network. 
 
+<div align="center">
+  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/network-redundancy.png" />
+</div>
+
 The network employs BGP to assure all traffic reaches its destination if one connection fails. Communication to international connections is made fully redundant and supported in two locations, our main building in San Jose and the Teleport in Calle Blancos, approximately 7 kms away. 
 
-The EOS network will benefit from this infrastructure, which includes private peering network connections to major Internet carriers. These private peering arrangements allow the network to quickly and efficiently exchange packets of data with every major backbone carrier in a one-to-one environment.</p>
+The EOS network will benefit from this infrastructure, which includes private peering network connections to major Internet carriers. These private peering arrangements allow the network to quickly and efficiently exchange packets of data with every major backbone carrier in a one-to-one environment.
 
 [Official Website - eoscostarica.io](http://eoscostarica.io)  
