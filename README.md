@@ -26,6 +26,9 @@ resources in Costa Rica to support EOS. We want your feedback!
 
 We are constantly thinking of ways to improve our infrastructure and have outlined the following [Technical Roadmap](https://eoscostarica.com/documents/EOS-costaRica-document-tech.pdf)  , we will actively adapt our roadmap to network conditions and add capacity / redundancy as needed.
 
+<div align="center">
+  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/illustration-network-2-black.jpg" />
+</div>
 
 ## Bare Metal Servers Specs ##
                            
