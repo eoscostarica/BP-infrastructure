@@ -6,15 +6,15 @@
 	<a href="https://discord.gg/bBpQHym">
 		<img src="https://img.shields.io/discord/447118387118735380.svg?logo=discord" alt="chat on Discord">
 	</a>
-  <a href="https://t.me/eoscr">
-		<img src="https://img.shields.io/badge/telegram-join-blue.svg" alt="Telegram">
+	<a href="https://discord.gg/bBpQHym">
+		<img src="https://img.shields.io/discord/447118387118735380.svg?logo=discord" alt="chat on Discord">
 	</a>
 	<a href="https://twitter.com/intent/follow?screen_name=eoscostarica">
 		<img src="https://img.shields.io/twitter/follow/eoscostarica.svg?style=social&logo=twitter" alt="follow on Twitter">
 	</a>
 </p>
 
-# Block Producer Candidacy Info and Architecture
+# Block Producer Technical Info and Architecture
 
 <div align="center">
   <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/eos-costa-rica.png" />
@@ -59,7 +59,7 @@ We look forward to the EOS token holder's support in order to continue with the 
 Fiber optic connections reach Costa Rica on both Pacific and Caribbean coasts via three submarine cables that provide the majority of bandwidth to Costa Rica. Access to all three backbones, <i> ARCOS-1, MAYA-1, and Pan American Crossing (PAC) </i> provides real time fail-over and redundancy at our facility. Additionally all 6 Central American nations are interconnected via a terrestrial fiber optic network <i>(REDCA)</i>. Direct connections to all upstream carriers ensure that no single point of failure is present in the network. 
 
 <div align="center">
-  <img src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/network-redundancy.png" />
+  <img style="width: 50%; float:right; " src="https://github.com/eoscostarica/block-producer-architecture/blob/master/img/network-redundancy.png" />
 </div>
 
 The network employs BGP to assure all traffic reaches its destination if one connection fails. Communication to international connections is made fully redundant and supported in two locations, our main building in San Jose and the Teleport in Calle Blancos, approximately 7 kms away. 
